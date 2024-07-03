@@ -91,7 +91,7 @@
          {
         "id": 10,
         "name": "Zucchini Crust Pizza",
-        "price": "23.95",
+        "price": "16.97",
         "menu_description": " It’s just right for brunch, lunch or a light supper. ",
         "classifications": {
           "vegetarian": true
@@ -179,7 +179,7 @@
       {
         "id": 1000,
         "name": "Pizza Caprese",
-        "price": "23.95",
+        "price": "25.05",
         "menu_description": "Pizza Caprese is simply heirloom tomatoes, fresh mozzarella and really good extra virgin olive oil. ",
         "classifications": {
           "vegetarian": true
