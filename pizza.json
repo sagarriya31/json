@@ -90,9 +90,9 @@
         ,
          {
         "id": 10,
-        "name": "Vegan Veggie",
+        "name": "Zucchini Crust Pizza",
         "price": "23.95",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+        "menu_description": " It’s just right for brunch, lunch or a light supper. ",
         "classifications": {
           "vegetarian": true
         },
@@ -178,9 +178,9 @@
         ,
       {
         "id": 1000,
-        "name": "Vegan Veggie",
+        "name": "Pizza Caprese",
         "price": "23.95",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+        "menu_description": "Pizza Caprese is simply heirloom tomatoes, fresh mozzarella and really good extra virgin olive oil. ",
         "classifications": {
           "vegetarian": true
         },
@@ -409,6 +409,93 @@
             "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
             "asset": {
               "url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D"
+            }
+          }
+        ]
+      },
+      {
+        "id": 1001,
+        "name": "Easy Pesto Pizza",
+        "price": "28.60",
+        "menu_description": "We kneaded basil, oregano and Parmesan cheese into packaged bread dough for this full-flavored crust.",
+        "classifications": {
+          "vegetarian": true
+        },
+        "assets": {
+          "menu": [
+            {
+              "url": "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg"
+            }
+          ],
+          "product_details_page": [
+            {
+              "url": "https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg"
+            }
+          ]
+        },
+        "toppings": [
+          {
+            "id": 150,
+            "name": "Baby Bell Peppers",
+            "description": null,
+            "asset": {
+              "url": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg"
+            }
+          },
+          {
+            "id": 6,
+            "name": "Basil",
+            "description": null,
+            "asset": {
+              "url": "https://images.immediate.co.uk/production/volatile/sites/30/2023/03/Chocolate-pizza-a24aff9.jpg?quality=90&resize=556,505"
+            }
+          },
+          {
+            "id": 110,
+            "name": "Daiya Vegan Mozzarella",
+            "description": "FILTERED WATER, TAPIOCA FLOUR, EXPELLER PRESSED NON-GMO CANOLA AND/OR SAFFLOWER OIL, COCONUT OIL, PEA PROTEIN, SALT, VEGAN NATURAL FLAVOURS, INACTIVE YEAST, VEGETABLE GLYCERIN, XANTHAN GUM, CITRIC ACID, TITANIUM DIOXIDE",
+            "asset": {
+              "url": "https://recipesblob.oetker.in/assets/2d2a87f7533e439aa3e6ed9bd63656e7/750x400/tandoori-pizza.jpg"
+            }
+          },
+          {
+            "id": 74,
+            "name": "Kalamata Olives",
+            "description": "KALAMATA OLIVES, WATER, SEA SALT, SUNFLOWER OIL",
+            "asset": {
+              "url": "https://images.101cookbooks.com/PIZZA-DOUGH-RECIPE-h.jpg?w=1200&auto=compress&auto=format"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Oregano",
+            "description": null,
+            "asset": {
+              "url": "https://www.halfbakedharvest.com/wp-content/uploads/2024/01/Pomodoro-Pepperoni-Pizza-1.jpg"
+            }
+          },
+          {
+            "id": 75,
+            "name": "Red Onions",
+            "description": null,
+            "asset": {
+              "url": "https://cdn.loveandlemons.com/wp-content/uploads/2023/07/margherita-pizza.jpg"
+            }
+          },
+          {
+            "id": 26,
+            "name": "Roasted Garlic",
+            "description": "PEELED GARLIC, CANOLA OIL",
+            "asset": {
+              "url": "https://thumbs.dreamstime.com/b/pizza-27972212.jpg"
+            }
+          },
+          {
+            "id": 1,
+            "name": "Tomato Sauce",
+            "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
+            "asset": {
+              "url": "https://www.realsimple.com/thmb/9mjAhtVjmyUMm8cnZ6gHjdN-PQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/real-simple-make-you-rown-pizza-RS1222-d5c99b1bfef245938f9241569c2cecbb.jpg"
             }
           }
         ]
