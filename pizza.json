@@ -416,7 +416,7 @@
       {
         "id": 1001,
         "name": "Easy Pesto Pizza",
-        "price": "28.60",
+        "price": "30.67",
         "menu_description": "We kneaded basil, oregano and Parmesan cheese into packaged bread dough for this full-flavored crust.",
         "classifications": {
           "vegetarian": true
@@ -429,7 +429,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg"
+              "url": "https://recipesblob.oetker.in/assets/2d2a87f7533e439aa3e6ed9bd63656e7/750x400/tandoori-pizza.jpg"
             }
           ]
         },
@@ -503,7 +503,7 @@
       {
         "id": 1002,
         "name": "Spinach and Artichoke Pizza",
-        "price": "28.60",
+        "price": "21.12",
         "menu_description": " Top it with spinach, artichoke hearts and tomatoes.",
         "classifications": {
           "vegetarian": true
@@ -516,7 +516,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg"
+              "url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D"
             }
           ]
         },
@@ -603,7 +603,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg"
+              "url": "https://images.101cookbooks.com/PIZZA-DOUGH-RECIPE-h.jpg?w=1200&auto=compress&auto=format"
             }
           ]
         },
@@ -677,7 +677,7 @@
       {
         "id": 1007,
         "name": "Mozzarella Cornbread Pizza",
-        "price": "18.20",
+        "price": "30.40",
         "menu_description": "cornbread pizza with veggies in the crust and everything on top",
         "classifications": {
           "vegetarian": true
@@ -690,7 +690,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg"
+              "url": "https://cdn.loveandlemons.com/wp-content/uploads/2023/07/margherita-pizza.jpg"
             }
           ]
         },
